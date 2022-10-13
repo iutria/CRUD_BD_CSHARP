@@ -1,0 +1,6 @@
+C:\Users\IVANU\Desktop\net\CRUDBD\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\IVANU\Desktop\net\CRUDBD\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\IVANU\Desktop\net\CRUDBD\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\IVANU\Desktop\net\CRUDBD\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\IVANU\Desktop\net\CRUDBD\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\IVANU\Desktop\net\CRUDBD\ENTITY\obj\Debug\ENTITY.pdb

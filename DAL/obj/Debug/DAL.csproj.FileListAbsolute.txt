@@ -1,0 +1,9 @@
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\bin\Debug\DAL.dll
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\bin\Debug\DAL.pdb
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\bin\Debug\ENTITY.dll
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\bin\Debug\ENTITY.pdb
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\obj\Debug\DAL.dll
+C:\Users\IVANU\Desktop\net\CRUDBD\DAL\obj\Debug\DAL.pdb
